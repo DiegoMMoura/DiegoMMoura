@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working at Latam Airlines, as International Buyer, but looking for opportunities at I.T. world.
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working at Latam Airlines, as International Buyer, but looking for opportunities at IT world.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on any Python Project to develop and encrease my knowledgment about this language. 
 - 📫 How to reach me: diego.melomoura83@gmail.com
 
@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/DiegoMMoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegommoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegommoura&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegommoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegommoura&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
