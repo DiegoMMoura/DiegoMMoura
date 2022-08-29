@@ -2,7 +2,6 @@
 
 
 
-
 - 🔭 I’m currently working at Latam Airlines as International Buyer, but looking for opportunities at IT world.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on any Python Project to develop and encrease my knowledgment about this language. 
@@ -12,15 +11,14 @@
 
 <div align="center">
   <a href="https://github.com/DiegoMMoura">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiegoMMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMMoura&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DiegoMMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMMoura&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  
+    
   ##
   
  <div> 
@@ -32,8 +30,3 @@
  </div> 
   
   
-  
-
-
-
-
