@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working at Latam Airlines as International Buyer, but looking for opportunities in the "IT World".
+- 🔭 I’m currently working at AMP (Airline MRO PArts) as International Sourcing Agent, but looking for opportunities in the "IT World".
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on any Python Project to develop and encrease my knowledgment about this language. 
 - 📫 How to reach me: diego.melomoura83@gmail.com
